@@ -1,0 +1,69 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore environment variables files
+.env
+
+# Ignore data files
+*.csv
+*.tsv
+*.json
+*.h5
+*.pkl
+
+# Ignore model files
+*.h5
+*.ckpt
+*.model
+*.pth
+*.pt
+*.joblib
+
+# Ignore logs and outputs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore checkpoint files
+model.ckpt.data-*
+model.ckpt.index
+model.ckpt.meta
+checkpoint
+
+# Ignore NPZ and main files
+*.npz
+*main.py
+
+# Ignore files
+yolo.h5
+coco_classes.txt
+yolo
+requirements.txt
+*.jpg
+*.txt
+*.npy
+tmp_res
+*.zip
+
+# Ignore folders
+__MACOSXi
+ZendeskArticles
+dump
