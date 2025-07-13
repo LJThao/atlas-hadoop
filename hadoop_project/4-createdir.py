@@ -1,5 +1,5 @@
 #!/usr/bin/python2.7
-"""HDFS with Python (Snakebite) Module"""
+"""HDFS with Python (Snakebite): Create Module"""
 from snakebite.client import Client
 
 
